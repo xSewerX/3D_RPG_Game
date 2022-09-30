@@ -1,1 +1,14 @@
 # 3D_RPG_Game
+Jest to typowa gra RPG, w której gracz wciela się w postać, której zadaniem jest pomoc pobliskiej wiosce z atakami bandtyów. W grze zawarte są znane dla RPG'ów systemy. 
+![game](https://user-images.githubusercontent.com/87769135/193262342-9096badd-8af8-4e13-8f8f-dc89ac23f961.png)
+Postać posiada własny plecak, ekwipunek, jak i statystyki. Statystyki postaci można zwiększać za pomocą ekwipunku (zbroi, broni, akcesorii) oraz punktów, które zyskuje się wraz ze zdobywaniem nowych poziomów. Gracz ma trzy scieżki rozwoju postaci. Siła - zwiększa obrażenia od broni białej, np. miecze. Zręczność - zwiększa obrażenia od broni dystansowej, np. łuk. Moc - zwiększa magiczne obrażenia. (Aktualnie jednak w grze nie są zaimplementowane bronie dystansowe, jak i magiczne).
+![eq stats](https://user-images.githubusercontent.com/87769135/193262505-31739493-5d0d-4b57-8bfd-dab759daf750.png)
+Gracz może ulepszać swoją postać, dzięki systemowi tworzenia przedmiotów i ekwipunku. U odpowiednich NPC (Kowal, Alchemik) gracz ma możliwość tworzenia i ulepszania zbroi, jak i broni lub wytwarzania mikstur. Do tego potrzebuje odpowiedniej ilości przedmiotów, które może zdobyć pokonując bandytów, poprzez zbieractwo (ródy żelaza, kwiaty, skóra zwierząt) lub kupując u handlarza. Wszystkie reseptury pokazane są w specjalnym UI. 
+![crafting](https://user-images.githubusercontent.com/87769135/193264758-67e5d778-ab23-4e1d-b600-b0f150f57aba.png)
+Aby gracz miał co robić do dyspozycji będzie miał różne zadania, które otrzyma od napotkanych NPC. Postęp zadań gracz bez problemu będzie mógł sprawdzić w dzienniku zadań. Zadania posiadają dwie formy. Jedną z nich jest pokonanie odpowiedniej liczby przeciwników, a drugą dostarczenie odpowiednich przedmiotów. Za wykonanie zadania na gracza czeka nagroda, najczęściej w postaci punktów doświadczenia i złota, rzadziej przedmiotu.
+![quests](https://user-images.githubusercontent.com/87769135/193266720-ccaf596e-4830-4c8c-bc5e-3fa76c799907.png)
+Jako iż rozgrywa może się przedłużać gracz ma możliwość zapisania aktualnego stanu gry i wczytania go ponownie później. Gracz ma do dyspozycji 5 miejsc na zapis gry, jednak bez prolemu może nadpisać, któryś ze starszych zapisów.
+![saving](https://user-images.githubusercontent.com/87769135/193267364-1be7419c-f823-41f5-b56a-9ba8a0edcd30.png)
+Na gracza czeka wielu przeciwników o różnej sile, posługującymi się różnymi broniami. Aktualnie głównym celem gracza jest pokonanie lidera bandytów, jednak aby tego dokonać, postać gracza będzie musiał być wyposażona w najlepszy dostępny ekwipunek, którego zdobycie może okazać się czasochłonne.
+
+Projekt jest dość skomplikowany, dlatego nie ukrywam, że stworzyłem go przy pomocy poradników znajdujących się na kanałach YouTube użytkowników: Brackeys: https://www.youtube.com/c/Brackeys oraz inScope Studios: https://www.youtube.com/c/inScopeStudios.
