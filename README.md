@@ -9,6 +9,4 @@ Aby gracz miał co robić do dyspozycji będzie miał różne zadania, które ot
 ![quests](https://user-images.githubusercontent.com/87769135/193266720-ccaf596e-4830-4c8c-bc5e-3fa76c799907.png)
 Jako iż rozgrywa może się przedłużać gracz ma możliwość zapisania aktualnego stanu gry i wczytania go ponownie później. Gracz ma do dyspozycji 5 miejsc na zapis gry, jednak bez prolemu może nadpisać, któryś ze starszych zapisów.
 ![saving](https://user-images.githubusercontent.com/87769135/193267364-1be7419c-f823-41f5-b56a-9ba8a0edcd30.png)
-Na gracza czeka wielu przeciwników o różnej sile, posługującymi się różnymi broniami. Aktualnie głównym celem gracza jest pokonanie lidera bandytów, jednak aby tego dokonać, postać gracza będzie musiał być wyposażona w najlepszy dostępny ekwipunek, którego zdobycie może okazać się czasochłonne.
-
-Projekt jest dość skomplikowany, dlatego nie ukrywam, że stworzyłem go przy pomocy poradników znajdujących się na kanałach YouTube użytkowników: Brackeys: https://www.youtube.com/c/Brackeys oraz inScope Studios: https://www.youtube.com/c/inScopeStudios.
+Na gracza czeka wielu przeciwników o różnej sile, posługującymi się różnymi broniami. Aktualnie głównym celem gracza jest pokonanie lidera bandytów, jednak aby tego dokonać, postać gracza będzie musiała być wyposażona w najlepszy dostępny ekwipunek, którego zdobycie może okazać się czasochłonne.
